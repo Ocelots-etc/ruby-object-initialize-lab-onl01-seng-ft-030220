@@ -13,14 +13,6 @@ def initialize(name, breed = "Mutt")
     @name
   end
 
-  # def initialize(name, breed)
-  #   if @breed == (name, [])
-  #     puts "Mutt"
-  #   end
-  #   @breed = breed
-  #
-  #   end
-
   def breed=(breed)
     @breed = breed
   end
@@ -30,7 +22,3 @@ def initialize(name, breed = "Mutt")
   end
 
 end
-
-fido = Dog.new("Fido")
-# fido = Dog.new("Fido")
-# fido.name
