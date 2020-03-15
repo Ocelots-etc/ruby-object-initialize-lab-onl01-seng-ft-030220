@@ -5,12 +5,12 @@ def initialize(name, breed = "Mutt")
     @breed = breed
   end
 
-  def name=(name)
-    @name = name
+  def attr=(attr)
+    @attr = attr
   end
 
-  def name
-    @name
+  def attr
+    @attr
   end
 
   def breed=(breed)
