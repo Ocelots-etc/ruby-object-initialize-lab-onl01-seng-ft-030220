@@ -5,4 +5,4 @@ attr_accessor :name
 
 end
 
-beyonce = Person.new("Beyonce")
+beyonce = Person.new
