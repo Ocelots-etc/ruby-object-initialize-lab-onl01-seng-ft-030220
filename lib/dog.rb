@@ -12,11 +12,11 @@ def initialize(name, breed)
     @name
   end
 
-  def initialize(breed)
+  def initialize(name, breed)
       @breed = breed
     end
 
-  def breed=(name, breed)
+  def breed=(breed)
     @breed = breed
   end
 
