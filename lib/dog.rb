@@ -16,7 +16,7 @@ def initialize(name, breed)
       @breed = breed
     end
 
-  def breed=(breed)
+  def breed=(name, breed)
     @breed = breed
   end
 
