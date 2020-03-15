@@ -13,12 +13,4 @@ def initialize(name, breed = "Mutt")
     @attr
   end
 
-  def breed=(breed)
-    @breed = breed
-  end
-
-  def breed
-      @breed
-  end
-
 end
