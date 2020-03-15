@@ -23,6 +23,7 @@ def initialize(name, breed)
   def breed
     if @breed = []
       puts "Mutt"
+    end
     @breed
   end
 
