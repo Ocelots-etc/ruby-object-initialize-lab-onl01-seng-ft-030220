@@ -25,3 +25,5 @@ def initialize(name, breed)
   end
 
 end
+
+fido = Dog.new("Fido") 
