@@ -32,5 +32,5 @@ def initialize(name, breed)
 end
 
 # fido = Dog.new("Fido")
-fido = Dog.new("Fido")
-fido.name
+# fido = Dog.new("Fido")
+# fido.name
